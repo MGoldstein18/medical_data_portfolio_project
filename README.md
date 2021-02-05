@@ -1,4 +1,4 @@
-#US Medical Data Portfolio Project
+# US Medical Data Portfolio Project
 
 This portfolio project is part of the CodeCademy course. In this project we analyse US medical data using Python. 
 
